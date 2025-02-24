@@ -1,0 +1,26 @@
+[
+    {
+        "nomeProduto": "Atlas Fitness Tank",
+        "tamanho": "M",
+        "cor": "Blue",
+        "quantidade": 1
+    },
+    {
+        "nomeProduto": "Mach Street Sweatshirt",
+        "tamanho": "M",
+        "cor": "Black",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Stark Fundamental Hoodie",
+        "tamanho": "M",
+        "cor": "Black",
+        "quantidade": 2
+    },
+    {
+        "nomeProduto": "Teton Pullover Hoodie",
+        "tamanho": "M",
+        "cor": "Red",
+        "quantidade": 2
+    }
+]
