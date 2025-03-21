@@ -1,10 +1,5 @@
 pipeline {
-    agent {
-        docker {
-            image 'cypress/base:22.11.0'
-            args '-u root'
-        }
-    }
+    agent any
 
     stages {
         stage('Clonar repositório') {
